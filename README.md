@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![pinkyyynaa hacker pink](https://github.com/user-attachments/assets/91ad5378-b475-4243-97af-065decd0ca0c)
+<div align="center">
+  <img src=https://miro.medium.com/1*T2YeXB1BekKCchKHJweKFw.gif></video>
+</div>
 
