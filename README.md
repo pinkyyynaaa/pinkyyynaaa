@@ -1,4 +1,6 @@
-# Hello there 👋, welcome to Pinkyyynaa's!
+<div align="center">
+  <h1>Hello World,</h2>
+</div>
 
 <!--
 **pinkyyynaaa/pinkyyynaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <h1>Welcome to Pinkyyynaaa!</h1>
+</div>
+
 <div align="center">
   <img src=https://miro.medium.com/1*T2YeXB1BekKCchKHJweKFw.gif></video>
 </div>
