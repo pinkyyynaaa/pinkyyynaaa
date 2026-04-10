@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1>⋆. 𐙚˚࿔ Welcome to PINKYYYNAAA'S 𝜗𝜚˚⋆</h1>
+  <h1>⋆. 𐙚˚࿔ Welcome to PINKYYYNAAA's 𝜗𝜚˚⋆</h1>
 </div>
 
 <div align="center">
