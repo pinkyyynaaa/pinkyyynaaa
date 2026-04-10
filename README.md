@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello World,</h2>
+  <h1>Hello World 🩷,</h2>
 </div>
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1>⋆. 𐙚˚࿔ Welcome to PINKYYYNAAA's 𝜗𝜚˚⋆</h1>
+  <h1>⋆. ₊𖥔 Welcome to PINKYYYNAAA's ! ۪ ׄ໑୧ ׅ𖥔ׄ⋆</h1>
 </div>
 
 <div align="center">
