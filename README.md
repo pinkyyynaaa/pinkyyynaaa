@@ -25,3 +25,10 @@ Here are some ideas to get you started:
   <img src=https://miro.medium.com/1*T2YeXB1BekKCchKHJweKFw.gif></video>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&width=800&center=true&vCenter=true&color=FF69B4&pause=1000&lines=I%27m+CyberSecurity+Student;...and+yes%2C+I+love+PINK;Let%27s+follow+each+other+%3C3;Nice+to+know+you+guys!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&width=800&center=true&vCenter=true&color=FF1493&pause=1000&lines=I%27m+CyberSecurity+Student;...and+yes%2C+I+love+PINK;Let%27s+follow+each+other+%3C3;Nice+to+know+you+guys!">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&width=800&center=true&vCenter=true&color=FF69B4&pause=1000&lines=I%27m+CyberSecurity+Student;...and+yes%2C+I+love+PINK;Let%27s+follow+each+other+%3C3;Nice+to+know+you+guys!">
+  </picture>
+</div>
